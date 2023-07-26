@@ -44,8 +44,8 @@ const About = () => {
           analytics. Currently, I am thriving in my role as a Business Analyst
           at ACI Logistics, where I contribute my expertise in financial
           analysis, data interpretation, and strategic planning to drive the
-          company's growth and success. I firmly believe that continuous
-          learning and adaptability are key to success in today's ever-changing
+          companys growth and success. I firmly believe that continuous
+          learning and adaptability are key to success in todays ever-changing
           business landscape. As I continue to evolve and grow in my career, I
           am excited to embrace new challenges and make a positive difference
           wherever my path leads me.
